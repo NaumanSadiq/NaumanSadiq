@@ -1,7 +1,7 @@
 <h3 align="left">👋 Hey there! I'm Nauman Sadiq</h3>
 
 <p align="left">
-💻 A passionate Full Stack Developer with a love for Laravel, Angular, Next.js, and all things JavaScript. <br>
+💻 A passionate Full Stack Developer. <br>
 🔍 I turn ideas into scalable web solutions and love crafting intuitive UIs backed by solid backend logic.<br>
 🌐 Let's connect and build something awesome!
 </p>
