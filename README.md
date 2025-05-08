@@ -1,3 +1,7 @@
+<style>
+[data-a11y-link-underlines=true] .markdown-body a {text-decoration: none; !important}
+</style>
+
 <h3 align="left">👋 Hey there! I'm Nauman Sadiq</h3>
 
 <p align="left">
