@@ -1,6 +1,6 @@
 <h3 align="left">👋 Hey there! I'm Nauman Sadiq</h3>
-<p align="left">📝 Check My Blogs:&nbsp; https://blogs-by-nauman.vercel.app/</p>
 <p align="left">
+📝 Check My Blogs:&nbsp; https://blogs-by-nauman.vercel.app/ <br>
 💻 A passionate Full Stack Developer. <br>
 🔍 I turn ideas into scalable web solutions and love crafting intuitive UIs backed by solid backend logic.<br>
 🌐 Let's connect and build something awesome!
