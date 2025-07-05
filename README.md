@@ -29,23 +29,22 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" width="30" alt="mongodb logo" />
 </p>
 
-
 <h2 align="left">🌎 Social Links</h2>
-
-<div align="left">
+<p align="left">
   <a href="https://www.linkedin.com/in/nauman-sadiq-03258a1b1/" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="linkedin logo"  />
-  </a>
-  <a href="invisibleeye98@gmail.com" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="gmail logo"  />
-  </a>
+    <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&style=for-the-badge" height="25" alt="LinkedIn" />
+  </a>&nbsp;
+  <a href="mailto:invisibleeye98@gmail.com" target="_blank">
+    <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&style=for-the-badge" height="25" alt="Gmail" />
+  </a>&nbsp;
   <a href="https://www.youtube.com/@invisibleeye98" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=Youtube&logo=youtube&label=&color=FF0000&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="youtube logo"  />
+    <img src="https://img.shields.io/static/v1?message=YouTube&logo=youtube&style=for-the-badge" height="25" alt="YouTube" />
+  </a>&nbsp;
+  <a href="https://www.instagram.com/naumansadiqq" target="_blank">
+    <img src="https://img.shields.io/static/v1?message=Instagram&logo=instagram&style=for-the-badge" height="25" alt="Instagram" />
   </a>
-  <a href="https://www.instagram.com/naumansadiqq?igsh=Z24ydnEwMmNmZWhw&utm_source=qr" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=Instagram&logo=instagram&label=&color=E4405F&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="instagram logo"  />
-  </a>
-</div>
+</p>
+
 
 ###
 
