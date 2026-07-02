@@ -23,9 +23,7 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" width="30" alt="mysql logo" />&nbsp;
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" width="30" alt="mongodb logo" />
 </p>
-
 <h2 align="left">🌎 Social Links</h2>
-
 <div align="left">
   <a href="https://www.linkedin.com/in/nauman-sadiq-03258a1b1/" target="_blank">
     <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="linkedin logo"  />
